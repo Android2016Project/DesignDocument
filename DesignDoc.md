@@ -1,5 +1,5 @@
 ***
- # Lively Launcher <br> Initial Design Document
+  Lively Launcher <br> Initial Design Document
   Authors: Bo Wang(N12181444); Jun Li(N19907414); Miao-Ju Wei(N18701141)  
   Date: 03/12/2016  
   Version: 1.0  
